@@ -18,12 +18,12 @@ export default {
         // As a special case, the default locale can use '/' as its path.
         '/': {
             lang: 'en-US',
-            title: 'BuiltByBit Community Wiki',
+            title: 'Unofficial BuiltByBit Community Wiki',
             description: 'The guide to becoming a BBB Freelancer!',
         },
         '/nl/': {
             lang: 'nl-NL',
-            title: 'BuiltByBit Community Wiki',
+            title: 'Unofficial BuiltByBit Community Wiki',
             description: 'Een uitleg hoe je een BBB Zelfstandig Particulier wordt!',
         },
     },
